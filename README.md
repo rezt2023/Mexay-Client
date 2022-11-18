@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://discord.gg/pv8fmwersm">Discord server</a>
   ·
-  <a href="https://github.com/NeturnProjects/CheatBreaker/wiki">Wiki</a>
+  <a href="https://github.com/NeturnProjects/Cheatbreaker-3.0.wiki.git">Wiki</a>
   ·
   <a href="https://github.com/NeturnProjects/CheatBreaker/wiki/Frequently-Asked-Questions">Frequently asked Questions (FaQ)</a>
 </p>
