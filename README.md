@@ -1,4 +1,4 @@
-<h1 align="center">CheatBreaker 2</h1>
+<h1 align="center">CheatBreaker 3</h1>
 
 <p align="center">
   <a href="https://discord.gg/puW7fUE7J5">Discord server</a>
