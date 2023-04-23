@@ -1,7 +1,7 @@
 <h1 align="center">CheatBreaker 3</h1>
 
 <p align="center">
-  <a href="https://discord.gg/6wyAY4jFUr">Discord server</a>
+  <a href="https://discord.gg/xcdtVBXatq">Discord server</a>
   ·
   <a href="https://github.com/NeturnProjects/Cheatbreaker-3.0/wiki">Wiki</a>
   ·
