@@ -5,8 +5,6 @@
   ·
   <a href="https://github.com/NeturnProjects/Mexay-Client/wiki">Wiki</a>
   ·
-  <a href="https://github.com/NeturnProjects/Mexay-Client/wiki/Frequently-Asked-Questions">Frequently asked Questions (FaQ)</a>
-  ·
   <a href="https://github.com/NeturnProjects/Mexay-Client/wiki/How-to-install-Mexay-Client">How to install Mexay Client</a>
 </p>
 
